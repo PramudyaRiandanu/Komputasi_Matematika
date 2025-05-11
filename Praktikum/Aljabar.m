@@ -8,7 +8,7 @@ X = [1, 2];
 %Panggil fungsi bagidua
 %[x, galat] = bagidua(f, X);
 
-[x, galat] = Posisipalsuu(f, X);
+[x, galat] = bagidua(f, X);
 
 
 % Tampilkan hasil
