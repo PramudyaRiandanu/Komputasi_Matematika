@@ -49,7 +49,7 @@ for iter = 1:maxIter
 end
 toc
 %plot 
-if plotobjFcn
+if plotObjFcn
     ub = -4;
     lb = 4;
     npoints = 1000;
